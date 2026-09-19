@@ -10,7 +10,41 @@ End-to-end customer churn analysis using Python for data cleaning and EDA, SQL S
 
 A telecom provider wants to understand why customers cancel their subscriptions (churn) and identify the customer segments most at risk of leaving. The goal of this project is to analyze customer behavior, services, contracts, payment methods, tenure, and monthly charges to uncover patterns associated with churn and provide insights that can help prioritize customer retention campaigns.
 
-## 🎯 Business Questions
+## 📁 Dataset
+
+The dataset used in this project is the **[Dataset Name]** dataset, sourced from **[Kaggle / Source Name]**.
+
+### Dataset Overview
+
+| Attribute           | Details                        |
+| ------------------- | ------------------------------ |
+| **Source**          | [[Dataset source / Kaggle link](https://www.kaggle.com/datasets/blastchar/telco-customer-churn)] |
+| **Rows**            | [7043]               |
+| **Columns**         | [21]            |
+| **Target Variable** | `Churn`                        |
+| **Data Type**       | [CSV]           |
+
+### Description
+
+The data set includes information about:
+- Customers who left within the last month – the column is called Churn
+- Services that each customer has signed up for – phone, multiple lines, internet, online security, online backup, device protection, tech support, and streaming TV and movies
+- Customer account information – how long they’ve been a customer, contract, payment method, paperless billing, monthly charges, and total charges
+- Demographic info about customers – gender, age range, and if they have partners and dependents
+
+It includes information related to:
+
+* **Customer information:** [e.g. gender, senior citizen, dependents]
+* **Account information:** [e.g. tenure, contract, payment method]
+* **Services:** [e.g. internet service, phone service, streaming services]
+* **Financial information:** [e.g. monthly charges, total charges]
+* **Churn:** [briefly explain what the `Churn` column represents]
+
+
+ **Note:** The original dataset was used for this project, with data preparation and transformations performed during the Python analysis stage.
+
+
+## 🎯 Business Questions Answered
 
 The analysis focuses on answering the following business questions:
 
