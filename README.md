@@ -79,6 +79,8 @@ The dataset is prepared and explored using **Python, Pandas, and Matplotlib**. T
 ### 2. 🗄️ SQL Server Analysis
 
 The prepared data is analyzed using **SQL Server and T-SQL** to answer the defined business questions and identify customer segments associated with higher churn.
+📂 [View SQL Analysis](https://github.com/youssefalyy99/Telco-Customer-Churn-Analysis/blob/main/SQL/DataAnalysisSQL.sql)
+
 
 ### 3. 📊 Power BI Dashboard
 
