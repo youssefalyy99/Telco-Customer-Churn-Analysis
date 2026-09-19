@@ -15,3 +15,17 @@ The analysis focuses on answering the following business questions:
 * Which **subscribed services** are most associated with churn?
 * How does the **churn rate vary across different tenure groups** (0–12, 13–24, 25–48, and 48+ months)?
 * What is the churn rate for **combinations of two categorical features** (e.g., contract type × payment method) to identify the highest-risk customer segments?
+
+🛠️ Tools & Technologies
+
+The project uses the following tools and technologies:
+
+| Tool / Technology | Purpose |
+|---|---|
+| **Python** | Data cleaning, preprocessing, exploratory data analysis, and visualization |
+| **Pandas** | Data manipulation, transformation, and analysis |
+| **Matplotlib** | Data visualization and exploratory analysis |
+| **SQL Server / T-SQL** | Customer segmentation, aggregation, and answering business questions |
+| **Power BI** | Interactive dashboard development and business insights |
+| **Jupyter Notebook** | Python-based analysis and documentation |
+| **Git & GitHub** | Version control and project documentation |
