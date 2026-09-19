@@ -16,7 +16,7 @@ The analysis focuses on answering the following business questions:
 * How does the **churn rate vary across different tenure groups** (0–12, 13–24, 25–48, and 48+ months)?
 * What is the churn rate for **combinations of two categorical features** (e.g., contract type × payment method) to identify the highest-risk customer segments?
 
-🛠️ Tools & Technologies
+## 🛠️ Tools & Technologies
 
 The project uses the following tools and technologies:
 
