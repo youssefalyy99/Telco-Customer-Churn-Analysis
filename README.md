@@ -12,17 +12,17 @@ A telecom provider wants to understand why customers cancel their subscriptions 
 
 ## 📁 Dataset
 
-The dataset used in this project is the **[Dataset Name]** dataset, sourced from **[Kaggle / Source Name]**.
+The dataset used in this project is the **Telco Customer Churn** dataset, sourced from **Kaggle**.
 
 ### Dataset Overview
 
 | Attribute           | Details                        |
 | ------------------- | ------------------------------ |
-| **Source**          | [[Dataset source / Kaggle link](https://www.kaggle.com/datasets/blastchar/telco-customer-churn)] |
-| **Rows**            | [7043]               |
-| **Columns**         | [21]            |
+| **Source**          | [[Kaggle link](https://www.kaggle.com/datasets/blastchar/telco-customer-churn)] |
+| **Rows**            | 7043             |
+| **Columns**         | 21            |
 | **Target Variable** | `Churn`                        |
-| **Data Type**       | [CSV]           |
+| **Data Type**       | CSV           |
 
 ### Description
 
