@@ -84,10 +84,6 @@ The prepared data is analyzed using **SQL Server and T-SQL** to answer the defin
 
 The analysis is presented through an interactive **Power BI dashboard**, allowing users to explore churn patterns across different customer characteristics and services.
 
-### 4. 💡 Business Insights
-
-The findings from the Python, SQL, and Power BI analysis are combined to identify key patterns in customer churn and highlight customer segments that may require further attention.
-
 
 ## 🛠️ Tools & Technologies
 
