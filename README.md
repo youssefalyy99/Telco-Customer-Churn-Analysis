@@ -56,6 +56,39 @@ The analysis focuses on answering the following business questions:
 * How does the **churn rate vary across different tenure groups** (0–12, 13–24, 25–48, and 48+ months)?
 * What is the churn rate for **combinations of two categorical features** (e.g., contract type × payment method) to identify the highest-risk customer segments?
 
+## 🔄 Project Workflow
+
+The project follows an end-to-end data analysis workflow, taking the data from its raw form to an interactive business intelligence dashboard.
+
+```text
+📁 Raw Dataset
+      ↓
+🐍 Data Preparation & EDA
+      ↓
+🗄️ SQL Server Analysis
+      ↓
+📊 Power BI Dashboard
+      ↓
+💡 Business Insights
+```
+
+### 1. 🐍 Data Preparation & EDA
+
+The dataset is prepared and explored using **Python, Pandas, and Matplotlib**. This stage includes data validation, preprocessing, exploratory analysis, and visualization.
+
+### 2. 🗄️ SQL Server Analysis
+
+The prepared data is analyzed using **SQL Server and T-SQL** to answer the defined business questions and identify customer segments associated with higher churn.
+
+### 3. 📊 Power BI Dashboard
+
+The analysis is presented through an interactive **Power BI dashboard**, allowing users to explore churn patterns across different customer characteristics and services.
+
+### 4. 💡 Business Insights
+
+The findings from the Python, SQL, and Power BI analysis are combined to identify key patterns in customer churn and highlight customer segments that may require further attention.
+
+
 ## 🛠️ Tools & Technologies
 
 The project uses the following tools and technologies:
