@@ -76,6 +76,8 @@ The project follows an end-to-end data analysis workflow, taking the data from i
 
 The dataset is prepared and explored using **Python, Pandas, and Matplotlib**. This stage includes data validation, preprocessing, exploratory analysis, and visualization.
 
+📂 [View Python Analysis](https://github.com/youssefalyy99/Telco-Customer-Churn-Analysis/tree/main/Python)
+
 ### 2. 🗄️ SQL Server Analysis
 
 The prepared data is analyzed using **SQL Server and T-SQL** to answer the defined business questions and identify customer segments associated with higher churn.
