@@ -2,6 +2,7 @@
 [![Python](https://img.shields.io/badge/Python-3.9%2B-3776AB?logo=python&logoColor=white)](https://www.python.org/)
 [![Jupyter Notebook](https://img.shields.io/badge/Jupyter%20Notebook-Notebook-F37626?logo=jupyter&logoColor=white)](https://jupyter.org/)
 [![SQL Server](https://img.shields.io/badge/SQL%20Server-T--SQL-CC2927?logo=microsoftsqlserver&logoColor=white)](https://www.microsoft.com/sql-server)
+
 End-to-end customer churn analysis using Python for data cleaning and EDA, SQL Server for business analysis, and Power BI for interactive visualization.
 
 
