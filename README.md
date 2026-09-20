@@ -95,7 +95,7 @@ The analysis is presented through an interactive **Power BI dashboard**, allowin
 
 <div align="center">
   <img src="https://github.com/youssefalyy99/Telco-Customer-Churn-Analysis/blob/main/Dashboard/Pictures/Landing%20Picture.jpg" width="48%" style="border-radius: 15px;">
-  <img src="https://github.com/youssefalyy99/youssefalyy99/blob/main/Project2Gif.gif?raw=true" width="48%" style="border-radius: 15px;">
+  <img src="https://github.com/youssefalyy99/Telco-Customer-Churn-Analysis/blob/main/Dashboard/Pictures/FullDashboard.png" width="48%" style="border-radius: 15px;">
 </div>
 
 
