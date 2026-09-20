@@ -91,6 +91,10 @@ The analysis is presented through an interactive **Power BI dashboard**, allowin
 
 📂 [View Dashboard]((https://github.com/youssefalyy99/Telco-Customer-Churn-Analysis/tree/main/Dashboard))
 
+## 👀 Final Dashboard
+
+
+
 ## 🛠️ Tools & Technologies
 
 The project uses the following tools and technologies:
