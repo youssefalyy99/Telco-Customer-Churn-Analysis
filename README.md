@@ -89,6 +89,7 @@ The prepared data is analyzed using **SQL Server and T-SQL** to answer the defin
 
 The analysis is presented through an interactive **Power BI dashboard**, allowing users to explore churn patterns across different customer characteristics and services.
 
+📂 [View Dashboard]((https://github.com/youssefalyy99/Telco-Customer-Churn-Analysis/tree/main/Dashboard))
 
 ## 🛠️ Tools & Technologies
 
